@@ -1,5 +1,5 @@
 public class Application{
 
-     String name = "UTEC";
+     String name = "TECSUP";
 
 }
