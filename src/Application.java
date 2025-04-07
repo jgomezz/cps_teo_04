@@ -1,5 +1,5 @@
 public class Application{
 
-     String name = "UTEC 2024";
+     String name = "TECSUP 2026";
 
 }
